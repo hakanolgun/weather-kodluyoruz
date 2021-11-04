@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.tempDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+.dayDiv:first-child{
+    background-color: blue;
+}
